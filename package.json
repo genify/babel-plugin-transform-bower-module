@@ -4,7 +4,7 @@
   "author": "genify <genify@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://g.hz.netease.com/edu-front-plugin/babel-plugin-transform-bower-module.git"
+    "url": "https://github.com/genify/babel-plugin-transform-bower-module.git"
   },
   "scripts": {
     "test": "mocha test/*.js"
