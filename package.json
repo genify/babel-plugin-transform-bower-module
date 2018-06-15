@@ -1,0 +1,28 @@
+{
+  "name": "babel-plugin-transform-bower-module",
+  "version": "0.0.1",
+  "author": "genify <genify@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://g.hz.netease.com/edu-front-plugin/babel-plugin-transform-bower-module.git"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "ignore": [
+    "test"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin",
+    "bower",
+    "import",
+    "path"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
