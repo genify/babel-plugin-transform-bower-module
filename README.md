@@ -1,6 +1,6 @@
 # babel-plugin-transform-bower-module
 
-Bower Module Path Resolver
+ES6 Bower Module Path Resolver
 
 ## Example
 
